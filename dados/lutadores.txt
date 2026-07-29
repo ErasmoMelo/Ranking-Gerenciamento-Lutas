@@ -1,0 +1,5 @@
+Usman Nurmagomedov;Russia;LEVE;PFL;21;0;0;8;8;true
+Alfie Davis;Inglaterra;LEVE;PFL;20;6;1;6;3;false
+Derrick Lewis;Estados Unidos;PESADO;UFC;29;14;0;8;5;false
+Ilia Topuria;Espanha;LEVE;UFC;17;1;0;14;0;false
+Justin Gaethje;Estados Unidos;LEVE;UFC;28;5;0;21;1;true
